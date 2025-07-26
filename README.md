@@ -30,6 +30,3 @@ Built entirely in **Power Query** and **Power BI**, it provides interactive dash
 - U.S. Renewable Energy Production Data
 
 ---
-
-This project does not contain a Python script or coding files.  
-All transformations and visualizations are done inside **Power BI**.
